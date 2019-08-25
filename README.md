@@ -26,3 +26,4 @@ Please follow this [link](https://www.kaggle.com/START-UMD/gtd) to download our 
 - **Analyze the data** more deeply and extract insights
 - **Visualize analysis** on **Google Data Studio** . Please find our Google Data Studio report [here](https://datastudio.google.com/open/1qgH08qHKrJUIfveZQLTSEiWpAQcMCC5G).
 # Terrorism-Global-Analyse
+# Terrorism-Global-Analyse
